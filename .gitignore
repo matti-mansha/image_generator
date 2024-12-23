@@ -1,0 +1,17 @@
+.env
+env
+__pycache__/main.cpython-310.pyc
+__pycache__/main.cpython-311.pyc
+models/__pycache__/filters.cpython-310.pyc
+models/__pycache__/filters.cpython-311.pyc
+processed_images/image_1_7ba5aa3f76a025e0_82a63779ae7a428a845bf033cd4832c8.png
+processed_images/image_1_7ba5aa3f76a025e0_53261c653834434ba2857358f817de58.png
+processed_images/image_1_7ba5aa3f76a025e0_ebabbfc183704b2894619a8ab6274f72.png
+processed_images/image_1.png
+processed_images/image_2.png
+processed_images/image_3.png
+services/__pycache__/image_processing_service.cpython-310.pyc
+services/__pycache__/image_processing_service.cpython-311.pyc
+services/__pycache__/openai_service.cpython-39.pyc
+services/__pycache__/openai_service.cpython-310.pyc
+services/__pycache__/openai_service.cpython-311.pyc
